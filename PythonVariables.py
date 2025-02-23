@@ -18,3 +18,21 @@ print(y);
 
 # to excecute use command below in your terminal
 #  syntax ->  python PythonVariables.py
+
+
+"""===================================== More Info ================================================"""
+
+# to specify the data type of a variable , this can be done with casting .
+
+X = str(5)
+print(X);
+
+# you can the print for line 28 show the number in string format .
+# to get the type of a variable , we can use ` type(variabe) `
+
+print(type(X)); #this print the type of the variable .
+#  like <class 'str'>  , str -> represnt string type .
+
+
+# Also python is case sensitive .
+#  you see the above variables x and X are assigned seperately and printed seperately .
