@@ -20,6 +20,40 @@ print(y);
 #  syntax ->  python PythonVariables/PythonVariables.py
 
 
+""" Assign Multiple Values """
+
+#  Python allows you to assign values to multiple variables in one line .
+
+a,b,c = 1001,2001,3001 ;
+
+print(a)
+print(b)
+print(c)
+
+""" One value to Multiple Variables """
+
+# You can assign the same value to multiple variables in one line .
+
+d = e = f = 4001;
+
+print(d)
+print(e)
+print(f)
+
+""" Unpack a collection """
+
+# Python allows you to extract the values into variables . 
+# This is called "unpacking" .
+
+fruits = ["Apple","Orange","Cherry"]
+g,h,i = fruits # destructuring -> means unpacking a collection for data from a variable and assign to multiple seperate variables .
+
+# we can use "+" operator on string to concate .
+print(g + h + i)
+
+# For number, they work as mathametical operation .
+
+
 """===================================== More Info ================================================"""
 
 # to specify the data type of a variable , this can be done with casting .
