@@ -1,5 +1,7 @@
 # this # -> is used to command the text which is not read by compiler while compiling or excecuting
-
+# """ Multi-line comment""" 
+""" This one represent multi-line 
+comments . Three quotes are the syntax that shows """
 # to print the output on termial we print funtion 
 #for example
 
