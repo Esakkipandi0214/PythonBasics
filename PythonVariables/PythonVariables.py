@@ -17,7 +17,7 @@ print(x);
 print(y);
 
 # to excecute use command below in your terminal
-#  syntax ->  python PythonVariables.py
+#  syntax ->  python PythonVariables/PythonVariables.py
 
 
 """===================================== More Info ================================================"""
